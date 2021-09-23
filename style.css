@@ -79,11 +79,11 @@ body {
 }
 
 .container {
-    border: 4px solid white;
     margin: 111px 80px;
-    padding: 83px;
-    width: 83%;
-    border-radius: 28px;
+    padding: 71px;
+    width: 70%;
+    border-radius: 74px;
+    box-shadow: -7px -5px 10px 34px rgb(32 148 167);
 }
 
 .form-group input {
